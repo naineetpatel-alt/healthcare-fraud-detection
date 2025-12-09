@@ -1,0 +1,24 @@
+procedure_id,cpt_code,procedure_name,cost_low,cost_high,complexity,category
+PROC_99213,99213,"Office visit, established patient, low to moderate complexity",75,150,2,Evaluation
+PROC_99214,99214,"Office visit, established patient, moderate to high complexity",120,250,3,Evaluation
+PROC_99215,99215,"Office visit, established patient, high complexity",180,350,4,Evaluation
+PROC_99203,99203,"Office visit, new patient, low to moderate complexity",100,200,2,Evaluation
+PROC_99204,99204,"Office visit, new patient, moderate to high complexity",150,300,3,Evaluation
+PROC_99281,99281,"Emergency department visit, low complexity",150,300,2,Emergency
+PROC_99283,99283,"Emergency department visit, moderate complexity",300,600,3,Emergency
+PROC_99285,99285,"Emergency department visit, high complexity",800,2000,5,Emergency
+PROC_70450,70450,"CT scan, head/brain, without contrast",400,1200,3,Radiology
+PROC_70553,70553,MRI brain with and without contrast,800,2500,4,Radiology
+PROC_93000,93000,"Electrocardiogram (EKG), complete",50,150,1,Diagnostic
+PROC_93015,93015,Cardiovascular stress test,200,500,3,Diagnostic
+PROC_80053,80053,Comprehensive metabolic panel,30,100,1,Laboratory
+PROC_85025,85025,Complete blood count with differential,20,60,1,Laboratory
+PROC_29881,29881,"Arthroscopy, knee, surgical",2000,5000,4,Surgery
+PROC_47562,47562,Laparoscopic cholecystectomy,5000,15000,5,Surgery
+PROC_27447,27447,Total knee arthroplasty,15000,45000,5,Surgery
+PROC_97110,97110,Therapeutic exercises,50,150,1,Therapy
+PROC_97140,97140,Manual therapy techniques,60,180,2,Therapy
+PROC_20610,20610,"Arthrocentesis, major joint",150,400,2,Procedure
+PROC_96372,96372,"Therapeutic injection, subcutaneous or intramuscular",25,75,1,Procedure
+PROC_45378,45378,"Colonoscopy, diagnostic",800,3000,4,Procedure
+PROC_45380,45380,Colonoscopy with biopsy,1000,3500,4,Procedure

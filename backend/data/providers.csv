@@ -1,0 +1,101 @@
+provider_id,provider_name,provider_type,specialty,address,city,state,zip_code,phone,license_number,license_state,years_in_practice,is_in_network,fraud_history,is_phantom
+9022784699,Dr. Corey Griffith,Physician - Specialist,Family Medicine,2384 Henderson Mission,West Jessicamouth,MA,57162,928-337-6596x1032,PA335494,IA,28,True,False,False
+9098624058,Lowe Inc Laboratory,Laboratory,,398 Grant Loaf,North Laura,HI,30296,(402)393-2427x916,MD085140,WI,16,True,False,False
+6666832723,Rodriguezmouth Health Center,Clinic - Urgent Care,,276 Woodard Avenue Suite 220,Bethhaven,MT,65622,(914)758-3526x99077,NP624220,UT,5,True,False,False
+6212679692,Nelsonshire Veterans Hospital,Hospital - General Acute Care,,50256 Reid Heights Apt. 510,Chavezton,NY,50390,489.759.2659,PA876532,RI,28,True,False,False
+8468950097,Dr. John Hanson,Physician - Primary Care,Physical Therapy,164 Scott Walks,Port Travis,IA,29203,001-572-898-0645,NP197128,TN,18,True,False,False
+3718949058,Dr. Russell James,Physician - Primary Care,Cardiology,89022 Colleen Freeway,Copelandville,WI,09928,(841)933-0070x028,MD778795,RI,27,True,False,False
+9494079290,Dr. Ryan Alvarez,Physician - Primary Care,Radiology,7678 Richard Coves,Port Chris,NM,51619,(647)229-2062,NP904712,MI,33,True,False,False
+9444019292,New Jennifer Wellness Clinic,Clinic - Outpatient,,1281 Brown Village Suite 012,Batesview,PW,26860,+1-607-935-3436x971,NP243728,RI,3,True,False,False
+2766372395,Simpsonton General Hospital,Hospital - General Acute Care,,853 Mary Groves Suite 732,North Sarahchester,GU,23332,001-933-950-4979,NP102767,PW,20,True,False,False
+3667428604,New Ashley Wellness Clinic,Clinic - Urgent Care,,96605 Robert Keys,North Brittney,NH,75896,621-280-3044x800,PA580185,SD,28,True,False,False
+1496739385,Dr. James Reyes,Physician - Primary Care,Radiology,57917 Joshua Ferry,Ashleyville,KY,10176,9477245335,DO580010,PW,27,True,False,False
+3443009109,"Murphy, Saunders and Diaz Laboratory",Laboratory,,65229 Victoria Street,North Marvinland,PA,63228,763.658.6749,DO911192,SD,25,True,False,False
+2124471746,Martinchester Medical Group,Clinic - Urgent Care,,5698 Juarez Stravenue Apt. 795,New Summer,NY,31326,830-990-7201x17058,NP214066,NH,22,False,False,False
+7173962712,Dr. Alison Smith,Physician - Primary Care,Radiology,763 Dean Well Apt. 827,Ericksonland,ND,83575,(615)588-0704,PA391741,AL,3,True,False,False
+7200642569,Dr. Ryan Jones,Physician - Primary Care,Radiology,5375 Sara Summit Suite 492,Lake Jesseshire,RI,93333,(720)723-4278x26191,MD877661,PA,35,True,False,False
+7198554601,Dr. Chelsea Kramer,Physician - Primary Care,Oncology,6424 Larson Dam Suite 072,East Fredhaven,CO,47767,3585002741,NP851743,PR,12,True,False,False
+6157173203,Dr. April Garcia,Physician - Specialist,Oncology,6477 Evans Corners,Port Eduardo,MN,83903,4646383509,MD937618,VA,20,True,False,False
+5050613878,Dr. Alexa Reilly,Physician - Specialist,Physical Therapy,1537 Martin Centers Suite 426,New Darrellshire,MA,36728,424.936.3066x4961,DO931027,MA,2,True,False,False
+0204179291,Dr. Jenny Mcdowell,Physician - Specialist,Family Medicine,335 Edwards Common,Lake Jasminestad,IA,18875,773-769-9737x797,MD179931,GU,13,True,False,False
+9825309251,Dr. Erik Parks,Physician - Primary Care,Oncology,1242 Blair Glens,Port Gregorybury,MA,94026,(414)547-0403,MD426258,WI,11,True,False,False
+1962071002,Popebury Medical Center,Hospital - General Acute Care,,43349 Sanders Shore Suite 415,New Jason,SC,59565,001-614-875-2030,NP672324,ME,34,True,False,False
+0927914560,Dr. Kenneth Lewis,Physician - Primary Care,Emergency Medicine,562 Christopher Roads,Patriciamouth,CT,97626,+1-975-262-5511,DO318195,UT,35,True,False,False
+4031277220,Dr. Sherry Henderson,Physician - Primary Care,Physical Therapy,53365 Ashley Flat,Haletown,NE,90833,974.624.6810,MD543645,DE,40,False,False,False
+8220781137,Dr. William Schneider,Physician - Specialist,Physical Therapy,4793 Christian Knoll Suite 553,Jamesview,SC,74217,001-719-820-0570x395,NP635315,MT,15,True,False,False
+3179706239,Dr. Teresa Thomas,Physician - Specialist,Oncology,6883 Danny Heights,West Carrie,AZ,50363,9478253333,PA265273,DC,23,False,False,False
+9042177625,West Cassandra Community Health Center,Clinic - Urgent Care,,26858 Katherine Isle,Lake Michael,WI,66442,001-395-806-1173x004,NP929298,TX,15,True,False,False
+7740633569,Dr. Robert Meyer,Physician - Primary Care,Physical Therapy,9906 Hunter Divide Suite 002,Howardfurt,CA,62473,001-660-882-7521x53215,DO929060,VT,3,False,False,False
+1773180632,Dr. Carlos Andrade,Physician - Specialist,Family Medicine,461 Brittney Fork Apt. 122,West Joann,PW,05941,(921)296-9974,NP431074,DE,11,True,False,False
+0772625701,South Williamhaven Children's Hospital,Hospital - General Acute Care,,25766 Stone Islands Apt. 464,Danieltown,TX,92596,705-432-5317,NP804649,NJ,35,True,False,False
+5085016579,Dr. Alyssa Cohen,Physician - Primary Care,Emergency Medicine,82136 Chan Ranch,North Thomasmouth,KS,48269,829.614.9512x996,MD552818,AR,14,True,False,False
+7933554864,Lake Marybury General Hospital,Hospital - General Acute Care,,63359 Nathan Lake Apt. 175,Davismouth,VT,85136,(782)946-8090,MD557788,CA,8,True,False,False
+1371162411,Dr. Alicia Sims,Physician - Primary Care,Radiology,397 Theresa Drives,Kimside,PR,16509,592-636-0333x6349,DO412723,FL,34,False,False,False
+8275670431,Dr. Trevor Bailey,Physician - Primary Care,Family Medicine,83596 Miller Centers Suite 365,West Laurenmouth,DE,86708,(365)621-7267,MD385695,MS,21,True,False,False
+8774924243,Travischester Wellness Clinic,Clinic - Outpatient,,171 Delacruz Way Suite 356,Tinaland,ND,28973,552.717.4141,NP402547,AS,11,True,False,False
+2222310592,Peters-Mcgrath Laboratory,Laboratory,,189 Laura Hills,Shanebury,PA,38747,632-537-9142,PA452380,MP,21,False,False,False
+2841067275,East Randyfurt Walk-In Clinic,Clinic - Urgent Care,,890 Erica Key,Kingville,NJ,51087,9836565995,MD885474,MD,37,True,False,False
+7028140693,Dr. Andrew Smith,Physician - Specialist,Physical Therapy,02756 Misty Dale,South Annatown,MH,38403,+1-921-246-1764,PA515093,VA,38,True,False,False
+7186375998,Dr. Tyrone Silva,Physician - Primary Care,Radiology,92082 Hendricks Walks Apt. 867,Watsonview,UT,05057,(655)314-6727,MD562656,VT,24,True,False,False
+7813767426,Port Jenniferfurt Children's Hospital,Hospital - General Acute Care,,364 Holly Spurs Apt. 184,Theresafort,DC,77605,415.730.3540x471,DO991234,WI,31,False,False,False
+6106462879,Dr. Darrell Wagner,Physician - Specialist,Internal Medicine,0544 Ashley Mission,Lake Juliashire,LA,72166,728.794.5314,DO326487,AS,3,False,False,False
+8730024471,Dr. Samantha Pena,Physician - Primary Care,Radiology,07871 Scott Shore,Kennedyfurt,ME,22141,(621)773-9163,NP627301,MI,18,True,False,False
+7964715890,Dr. David Collins,Physician - Specialist,Cardiology,729 Williams Unions Suite 148,West Sheila,SD,51027,001-974-818-3749x5066,NP290257,VI,9,True,False,False
+5044818321,Dr. Wesley Thompson,Physician - Primary Care,Family Medicine,85839 Bishop Point,Christopherborough,MH,23039,+1-810-263-2206x127,DO855445,NE,7,True,False,False
+2845765213,Danielmouth Walk-In Clinic,Clinic - Outpatient,,02842 Lee Cape,Fordberg,TN,80972,(340)457-3844x493,DO389888,ND,8,True,False,False
+0754527985,Dr. Stacey Welch,Physician - Primary Care,Cardiology,42948 Gregory Pike,East Christine,OK,54732,(546)488-0333,DO401322,FM,15,True,False,False
+6110760310,Ortizside County Hospital,Hospital - General Acute Care,,61736 Valdez Park Apt. 601,Garretttown,NJ,71392,466.977.2826,MD714014,WI,1,True,False,False
+3250124955,Dr. Jessica Robinson,Physician - Specialist,Cardiology,20410 Barnes Forks Suite 386,Warrenfort,CA,73257,662-784-9430x64741,DO893891,AZ,7,False,False,False
+4280138759,Dr. Cheyenne Carr,Physician - Specialist,Family Medicine,775 Jeffrey Forest,Garciaton,VA,03077,384-935-2972,DO712566,MT,14,True,False,False
+1718275480,Dr. Leonard Valdez,Physician - Specialist,Oncology,73775 Silva Land,Morrismouth,GU,77787,+1-674-898-5779x24781,MD571647,NV,39,True,False,False
+6317520716,Dr. Martin Johnson,Physician - Primary Care,Physical Therapy,6042 Daniel Hill,Lake David,CO,43623,486.204.8806x2201,PA811266,WY,38,False,False,False
+2153539613,Montgomery LLC Laboratory,Laboratory,,6790 Calvin Light Apt. 463,North Wesley,NE,76030,802-944-1243x7982,PA749946,RI,23,True,False,False
+7842711477,Jenniferstad Community Health Center,Clinic - Urgent Care,,623 Faulkner Via,Melissashire,TX,28062,(458)881-9689x327,DO010170,VA,12,True,False,False
+9911877347,Leahport Wellness Clinic,Clinic - Outpatient,,4983 Shannon Hollow Apt. 351,West Robertshire,AZ,33811,547-827-3968x1052,NP858800,AS,28,False,False,False
+6770028427,Atkinschester Health Center,Clinic - Outpatient,,162 Christopher Parkway Apt. 235,Lake Audrey,MO,88879,001-781-560-3684x2813,DO467197,SD,36,True,False,False
+2806479695,North Clarence University Hospital,Hospital - General Acute Care,,36278 Romero Station Suite 148,Lake Williambury,OR,68567,336.353.2364x9710,NP009025,WA,23,False,False,False
+5616556503,Port Matthewton Community Health Center,Clinic - Outpatient,,796 Garcia Keys,Larryside,MS,32911,(529)546-5931x579,DO491141,SD,22,True,False,False
+6986407905,Dr. Matthew Frazier II,Physician - Primary Care,Internal Medicine,086 Mcdaniel Dale,Adamsborough,VI,81065,987.332.3161,PA965917,ID,7,True,False,False
+5294563718,Dr. Linda Stevenson,Physician - Primary Care,Emergency Medicine,3492 Day Summit,Port Ashleeberg,PA,43791,720.432.3731,DO440496,ND,15,True,False,False
+9541987635,Dr. Elizabeth Terrell,Physician - Primary Care,Cardiology,5805 Walter Shoals Apt. 439,Robertville,MP,26675,(842)796-4690x8271,MD484685,ME,13,True,False,False
+8208297374,Dr. Selena Rodriguez,Physician - Specialist,Radiology,74606 Valentine Terrace,North Clifford,ME,42959,(515)349-5901,PA908357,WV,10,True,False,False
+1364424936,Dr. Karen Mccoy,Physician - Specialist,Radiology,70324 Johnson Circle,Yolandaland,IN,34247,5902752977,DO123034,NM,30,True,False,False
+3242044820,Dr. Jason Weeks,Physician - Primary Care,Oncology,1354 Fisher Pass,Tammyside,AL,51802,942-294-7683x04771,PA001594,ND,5,False,False,False
+1623198189,Tonyaside Primary Care Associates,Clinic - Urgent Care,,47085 Micheal Rapid,Hillport,ND,76264,001-219-972-8300x67810,PA139155,NM,38,True,False,False
+1234764907,Dr. Hunter Osborn,Physician - Specialist,Emergency Medicine,8533 Flores Trace Suite 637,West Rebeccaberg,MD,81795,975-425-5983x6291,NP158673,ND,18,False,False,False
+4090034864,Dr. Steven Rush,Physician - Primary Care,Orthopedic Surgery,96987 Tiffany Rapid,Bowenstad,OH,42107,765-770-0938x2668,NP183760,MA,26,False,False,False
+3432756041,Dr. Sherry Wilson,Physician - Specialist,Radiology,57491 Jennifer Center,Careychester,UT,29795,001-430-868-6547x9183,PA765612,SC,17,True,False,False
+8570027206,Dr. Samantha Bray,Physician - Primary Care,Internal Medicine,93031 Victoria Pass,South Evanberg,MD,40366,518.654.3635x446,DO459112,DC,16,True,False,False
+2965772429,Kennethport Medical Group,Clinic - Urgent Care,,965 Maria Circle Suite 237,Humphreytown,IA,26986,+1-982-820-2007x642,NP316526,KY,25,False,False,False
+8931734206,Dr. Tiffany Flores,Physician - Primary Care,Emergency Medicine,788 Tara Locks Suite 941,Ayalaburgh,AL,17770,001-880-263-3322,PA942152,OK,37,True,True,False
+7713334476,Jackson-Burke Imaging Center,Imaging Center,,846 Carol Path Suite 642,East Robertofurt,OR,23571,885.719.2834x3455,DO639343,KS,27,True,False,False
+4397359710,Blakefort Wellness Clinic,Clinic - Urgent Care,,3023 Anthony Unions Apt. 245,South Robert,DC,59104,810-385-9825x26324,DO563669,IN,17,True,False,False
+7599004896,Dr. Tiffany Wagner,Physician - Primary Care,Family Medicine,4835 Michelle Trafficway Apt. 042,Lynchmouth,NC,18647,+1-340-495-5415x567,NP652809,TX,12,True,False,False
+2158624150,Dr. Lisa Lopez,Physician - Primary Care,Physical Therapy,827 Best Drive,Port Rebecca,MT,61415,678-253-4904x3937,DO745644,OH,40,False,False,False
+6257287032,Matthewborough Family Health Clinic,Clinic - Urgent Care,,545 Chan Square Apt. 606,Toddberg,FL,05199,456-875-5043,DO207427,WA,28,True,False,False
+7587771215,Brewerberg Urgent Care Center,Clinic - Urgent Care,,9838 Ryan Cliffs Suite 798,Karenview,FM,01698,937-536-9064,DO422849,VT,38,True,False,False
+9261371504,Larryland Urgent Care Center,Clinic - Urgent Care,,354 Roberto Forks,West Danamouth,MH,82367,+1-409-533-0481x721,PA591520,IN,6,True,False,True
+4905097592,West Jeffrey Community Health Center,Clinic - Urgent Care,,2617 Vasquez Prairie Suite 466,Port Nathan,GA,26534,305.578.9486x30706,MD450189,PA,25,True,False,False
+6103266421,Dr. Samantha Thompson,Physician - Primary Care,Radiology,1706 Christy Valleys Apt. 745,Kristinamouth,ID,51975,242.596.5789,NP764925,AS,7,False,False,False
+7499616592,Dr. Patrick Warren,Physician - Specialist,Emergency Medicine,254 Brandon Cliffs,New Candace,AL,27953,688-396-5858,PA610857,KS,15,True,False,False
+8147617422,Dr. Sandra Rogers,Physician - Primary Care,Orthopedic Surgery,158 Jose Path,East Katrinafurt,NE,93120,+1-328-962-7171,NP386490,MI,36,True,False,False
+6617945491,Meyersshire Family Health Clinic,Clinic - Outpatient,,633 Castro Turnpike Apt. 595,Mikaylaville,AZ,83764,+1-429-787-2665,MD722601,SD,27,False,False,False
+7794523219,Spencerfort University Hospital,Hospital - General Acute Care,,86800 Cox Common Apt. 935,West Jonathanmouth,AS,10034,+1-495-946-0811x2806,MD680061,IA,1,True,False,False
+9749956412,Dr. Dr. Heather Washington,Physician - Specialist,Physical Therapy,011 Black Springs Apt. 640,South Ashley,NE,31859,001-310-591-4644,DO031030,NJ,14,True,False,False
+8314727601,Dr. Dean Perkins,Physician - Primary Care,Orthopedic Surgery,789 Amy Locks,West Joseview,IA,07717,7629523203,DO277707,ND,38,True,False,False
+0501667998,Dr. Angela Pena,Physician - Specialist,Radiology,38776 Mitchell Station Suite 377,Scottfurt,WY,20673,(563)541-9803,NP076789,NH,40,False,False,False
+0695814671,Dr. Jennifer Phillips,Physician - Specialist,Physical Therapy,67973 Kenneth Pike Apt. 047,Andrewbury,UT,90097,+1-603-925-1204,PA957602,PW,19,True,False,False
+8395972466,New Anthony Medical Group,Clinic - Urgent Care,,77029 Rebecca Glen,Amandashire,VA,42650,(657)327-7152x001,PA293417,TN,9,True,False,False
+6743380054,South Elizabeth Memorial Hospital,Hospital - General Acute Care,,409 Cory Crescent,Osbornestad,MA,46601,+1-780-644-4843x6712,DO280156,IN,8,True,False,False
+4550842891,Christopherberg Family Health Clinic,Clinic - Outpatient,,548 Heather Gateway Apt. 331,North Marcus,PA,87842,3463056104,PA711991,MT,36,True,False,False
+3524787125,Dr. Sarah Foster,Physician - Specialist,Cardiology,7736 Bryan Overpass Suite 436,Richardmouth,PA,37865,(950)310-8143,NP213760,NY,16,False,False,False
+1456532863,Dr. Krista Rodriguez,Physician - Primary Care,Physical Therapy,18197 Eric Place Suite 157,East Kennethbury,PR,07147,+1-396-240-5655x343,DO666785,PA,2,True,False,False
+8115562606,Petersonburgh Family Health Clinic,Clinic - Urgent Care,,3004 Randy Bypass,South Elizabethville,ID,38111,625-643-1138,DO908466,MP,36,False,False,False
+5048926738,East Jackland Wellness Clinic,Clinic - Urgent Care,,221 Yoder Rest,Port Yolanda,MT,67710,+1-280-994-7897x674,NP634108,VT,22,True,False,False
+8843188485,Justinborough Community Hospital,Hospital - General Acute Care,,36067 Warren Freeway,East Amandaburgh,NE,49631,001-858-507-9052,MD089434,OH,28,False,False,False
+5485101749,New Diana Family Health Clinic,Clinic - Urgent Care,,5849 Gross Roads,North Heather,SC,39202,842.247.9741x009,PA539989,MI,15,True,False,False
+9268315893,Dr. Kaitlyn Adkins,Physician - Specialist,Radiology,89696 James Brook,New Monique,GU,37356,+1-913-938-8716,NP712661,OH,6,True,False,False
+5869886497,Dr. Raymond Cook,Physician - Specialist,Orthopedic Surgery,22298 Mcintosh Gateway Apt. 032,Andreastad,FL,51199,6267399981,PA776228,MP,9,True,False,False
+8137702851,Dr. Gabriel Moody,Physician - Specialist,Physical Therapy,3718 Danielle Branch,South Alejandroshire,ND,53205,001-517-881-2871,PA115940,MH,34,True,False,False
+4702296044,Dr. Michelle Howe,Physician - Primary Care,Internal Medicine,2116 Ward Knoll,East Jesse,WY,61439,001-365-424-3207x26477,DO270185,WA,5,False,False,False
+7567922877,Dr. Michael Lee,Physician - Primary Care,Oncology,10813 Arias Meadows,Port Marie,KS,65184,278.907.6061,PA251996,MO,25,True,False,False

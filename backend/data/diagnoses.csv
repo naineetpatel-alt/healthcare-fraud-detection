@@ -1,0 +1,25 @@
+diagnosis_id,icd_10_code,diagnosis_name,severity,category
+DX_E11_9,E11.9,Type 2 diabetes mellitus without complications,Chronic,Endocrine
+DX_E11_65,E11.65,Type 2 diabetes mellitus with hyperglycemia,Moderate,Endocrine
+DX_E10_9,E10.9,Type 1 diabetes mellitus without complications,Chronic,Endocrine
+DX_I10,I10,Essential (primary) hypertension,Chronic,Cardiovascular
+DX_I11_0,I11.0,Hypertensive heart disease with heart failure,Severe,Cardiovascular
+DX_J44_9,J44.9,"Chronic obstructive pulmonary disease, unspecified",Moderate,Respiratory
+DX_J45_909,J45.909,"Unspecified asthma, uncomplicated",Mild,Respiratory
+DX_J18_9,J18.9,"Pneumonia, unspecified organism",Moderate,Respiratory
+DX_M54_5,M54.5,Low back pain,Mild,Musculoskeletal
+DX_M25_511,M25.511,Pain in right shoulder,Mild,Musculoskeletal
+DX_R51,R51,Headache,Mild,Symptoms
+DX_I21_9,I21.9,"Acute myocardial infarction, unspecified",Severe,Cardiovascular
+DX_I50_9,I50.9,"Heart failure, unspecified",Severe,Cardiovascular
+DX_I63_9,I63.9,"Cerebral infarction, unspecified",Severe,Cardiovascular
+DX_C50_911,C50.911,Malignant neoplasm of unspecified site of right female breast,Severe,Oncology
+DX_C34_90,C34.90,Malignant neoplasm of unspecified part of unspecified bronchus or lung,Severe,Oncology
+DX_F32_9,F32.9,"Major depressive disorder, single episode, unspecified",Moderate,Mental Health
+DX_F41_9,F41.9,"Anxiety disorder, unspecified",Mild,Mental Health
+DX_Z00_00,Z00.00,Encounter for general adult medical examination without abnormal findings,Preventive,Routine
+DX_Z23,Z23,Encounter for immunization,Preventive,Routine
+DX_S82_001A,S82.001A,"Unspecified fracture of right patella, initial encounter",Moderate,Injury
+DX_S06_0X0A,S06.0X0A,"Concussion without loss of consciousness, initial encounter",Moderate,Injury
+DX_K21_9,K21.9,Gastro-esophageal reflux disease without esophagitis,Mild,Digestive
+DX_K80_20,K80.20,Calculus of gallbladder without cholecystitis,Moderate,Digestive

@@ -1,0 +1,25 @@
+{
+  "generation_date": "2025-12-09T12:11:30.318064",
+  "num_patients": 1000,
+  "num_providers": 100,
+  "num_claims": 5000,
+  "fraud_rate": 0.15,
+  "fraud_patterns_used": {
+    "upcoding": 46,
+    "unbundling": 46,
+    "phantom_billing": 46,
+    "excessive_services": 46,
+    "double_billing": 46,
+    "drg_creep": 46,
+    "kickback_scheme": 46,
+    "service_substitution": 46,
+    "credential_misuse": 46,
+    "identity_theft": 46,
+    "cloning": 46,
+    "unnecessary_admissions": 46,
+    "ping_ponging": 46,
+    "family_ganging": 46,
+    "los_inflation": 46,
+    "equipment_fraud": 60
+  }
+}

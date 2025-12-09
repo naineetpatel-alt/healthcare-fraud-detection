@@ -1,0 +1,13 @@
+medication_id,ndc_code,drug_name,generic,cost,controlled,drug_class
+MED_00002_7510_01,00002-7510-01,Metformin 500mg,True,15,False,Antidiabetic
+MED_00002_8215_01,00002-8215-01,Insulin Glargine,False,300,False,Insulin
+MED_00071_0157_23,00071-0157-23,Lisinopril 10mg,True,10,False,ACE Inhibitor
+MED_00071_0222_23,00071-0222-23,Atorvastatin 20mg,True,12,False,Statin
+MED_00054_0093_13,00054-0093-13,Oxycodone 5mg,True,45,True,Opioid
+MED_00406_0489_01,00406-0489-01,Hydrocodone-Acetaminophen 5-325mg,True,40,True,Opioid
+MED_00093_2264_01,00093-2264-01,Amoxicillin 500mg,True,20,False,Antibiotic
+MED_50090_3067_00,50090-3067-00,Azithromycin 250mg,True,25,False,Antibiotic
+MED_00173_0682_20,00173-0682-20,Albuterol Inhaler,True,35,False,Bronchodilator
+MED_00054_3188_58,00054-3188-58,Fluticasone Inhaler,False,150,False,Corticosteroid
+MED_00093_7169_56,00093-7169-56,Sertraline 50mg,True,15,False,SSRI
+MED_00378_1805_93,00378-1805-93,Alprazolam 0.5mg,True,20,True,Benzodiazepine

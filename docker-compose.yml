@@ -1,0 +1,56 @@
+version: '3.8'
+
+services:
+  # Memgraph graph database
+  memgraph:
+    image: memgraph/memgraph-platform:latest
+    container_name: fraud_memgraph
+    ports:
+      - "7687:7687"  # Bolt protocol for database connection
+      - "3000:3000"  # Memgraph Lab web interface
+      - "7444:7444"  # Memgraph Lab secure connection
+    volumes:
+      - memgraph_data:/var/lib/memgraph
+      - memgraph_log:/var/log/memgraph
+      - memgraph_etc:/etc/memgraph
+      - ./backend/data:/data
+    environment:
+      - MEMGRAPH_LOG_LEVEL=WARNING
+    networks:
+      - fraud_network
+    restart: unless-stopped
+
+  # FastAPI backend (optional - can be run separately for development)
+  # backend:
+  #   build:
+  #     context: ./backend
+  #     dockerfile: Dockerfile
+  #   container_name: fraud_backend
+  #   ports:
+  #     - "8000:8000"
+  #   volumes:
+  #     - ./backend:/app
+  #     - ./backend/data:/app/data
+  #     - ./backend/models_storage:/app/models_storage
+  #     - ./backend/logs:/app/logs
+  #   environment:
+  #     - MEMGRAPH_HOST=memgraph
+  #     - MEMGRAPH_PORT=7687
+  #     - DATABASE_URL=sqlite:///./data/auth.db
+  #     - JWT_SECRET_KEY=${JWT_SECRET_KEY:-your-secret-key-change-me}
+  #     - ENVIRONMENT=development
+  #   depends_on:
+  #     - memgraph
+  #   networks:
+  #     - fraud_network
+  #   command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+  #   restart: unless-stopped
+
+volumes:
+  memgraph_data:
+  memgraph_log:
+  memgraph_etc:
+
+networks:
+  fraud_network:
+    driver: bridge
