@@ -4,6 +4,7 @@ import LoginPage from './features/auth/pages/LoginPage';
 import RegisterPage from './features/auth/pages/RegisterPage';
 import NewLandingPage from './pages/NewLandingPage';
 import SampleDataViewer from './pages/SampleDataViewer';
+import UploadPage from './pages/UploadPage';
 import AnalysisProgressPage from './pages/AnalysisProgressPage';
 import ReportPage from './pages/ReportPage';
 import UserGuidePage from './pages/UserGuidePage';
@@ -34,6 +35,14 @@ export const router = createBrowserRouter([
     element: (
       <ProtectedRoute>
         <SampleDataViewer />
+      </ProtectedRoute>
+    ),
+  },
+  {
+    path: '/upload',
+    element: (
+      <ProtectedRoute>
+        <UploadPage />
       </ProtectedRoute>
     ),
   },

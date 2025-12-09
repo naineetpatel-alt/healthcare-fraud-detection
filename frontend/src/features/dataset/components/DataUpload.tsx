@@ -45,7 +45,7 @@ export default function DataUpload() {
     setError(null);
 
     const formData = new FormData();
-    formData.append('file', file);
+    formData.append('claims', file);
 
     // Simulate progress (since we don't have actual upload progress from axios)
     const progressInterval = setInterval(() => {
@@ -65,10 +65,10 @@ export default function DataUpload() {
       toast.success(`Successfully uploaded ${file.name}!`);
 
       // Show stats if available
-      if (response.data.stats) {
-        const stats = response.data.stats;
+      if (response.data) {
+        const data = response.data;
         toast.success(
-          `Loaded ${stats.claims_count || 0} claims, ${stats.patients_count || 0} patients, ${stats.providers_count || 0} providers`,
+          `Loaded ${data.total_claims || 0} claims, ${data.total_patients || 0} patients, ${data.total_providers || 0} providers`,
           { duration: 5000 }
         );
       }
